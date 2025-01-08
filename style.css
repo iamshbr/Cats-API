@@ -1,0 +1,44 @@
+body {
+  background: rgb(224, 56, 98);
+}
+
+.header-content {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.btn {
+  background: transparent;
+  border: none;
+  background-color: #62d316;
+  color: #181717;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* JavaScript */
+.cats {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.random_cats {
+  width: 70%;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* aspect-ratio: 1/1; */
+  border-radius: 10px;
+}
+
+.container {
+  padding: 0;
+}
