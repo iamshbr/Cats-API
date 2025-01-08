@@ -1,3 +1,3 @@
 # Cats-API-JS
 
-Cats API using JS
+Cats API Cats API (Project 3)
